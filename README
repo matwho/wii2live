@@ -1,3 +1,6 @@
 wii2live
+========
+
+Wii remote to Abelton Live interface. For music, dance and public installations. Provides an easy way to take the output from up to 6 Wii remotes and using OSCulator provides an easy to use interface to generate MIDI CC.
 
 Video instructions on how to setup and use can be found at : http://vimeo.com/26605642
